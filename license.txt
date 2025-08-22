@@ -1,0 +1,10 @@
+*The copyright owner of the code
+
+1) Hyo-il Jung 
+E-mail address: uridle7@yonsei.ac.kr 
+2) Joonchul Shin 
+E-mail address: jcs2078@kims.re.kr
+3) Seongmin Ha
+E-mail address: choosesay@yonsei.ac.kr
+
+***Please note that this code is copyrighted by Yonsei University Laboratory of Biochip Technology and The Dabom inc.
